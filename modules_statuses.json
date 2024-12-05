@@ -1,0 +1,8 @@
+{
+    "User": true,
+    "Author": true,
+    "Admin": true,
+    "Subscriber": true,
+    "Story": true,
+    "Frontend": true
+}
